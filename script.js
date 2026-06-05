@@ -1,4 +1,4 @@
-const API_KEY = "AQ.Ab8RN6JhKuHyAxprO8hYxQgVA2o9NOz8kQeClZFoB4zwrZvcNA";
+const API_KEY = "AQ.Ab8RN6J_sGG4jiyeNWS6w9voCcqbV99UYTSMkNV9Cdh2dtCNjA";
 let lastQuestion = "";
 let lastAnswer = "";
 let currentSubject = "Toán";
